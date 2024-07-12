@@ -18,6 +18,7 @@
 <a href="https://stackoverflow.com/users/15393126/smou3lih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15393126/smou3lih" height="30" width="40" /></a>
 <a href="https://instagram.com/smou3lih_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smou3lih_dev" height="30" width="40" /></a>
 <a href="https://discord.gg/cEcecPvzuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cEcecPvzuw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@smou3lih777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rettgerg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
